@@ -10,4 +10,4 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 
 ### Jul
 
-- [Day 13](https://github.com/YanMagale/dailylog/blob/registries/07-13-2016.md) -  Did: `Daily Log Project` `GDG BeerNigth Plan` `My Personal Blog Plan` `My Pókedex Version`
+- [Day 13](https://github.com/YanMagale/dailylog/blob/master/registries/07-13-2016.md) -  Did: `Daily Log Project` `GDG BeerNigth Plan` `My Personal Blog Plan` `My Pókedex Version`
