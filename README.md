@@ -19,3 +19,8 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - Day 16 - Did: `relax`
 
 - [Day 17](https://github.com/YanMagale/dailylog/blob/master/registries/07-17-2016.md) -  Did: `Alura Course` `Laravel`
+
+- [Day 18](https://github.com/YanMagale/dailylog/blob/master/registries/07-18-2016.md) -  Listen: `Podcasts` / Read: `Motivation`
+
+
+- [Day 19](https://github.com/YanMagale/dailylog/blob/master/registries/07-19-2016.md) -  Watch: `Hangouts` `Firebase` / Read: `Laravel` / See: `Angular 2`
