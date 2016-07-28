@@ -25,10 +25,9 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 19](https://github.com/YanMagale/dailylog/blob/master/registries/07-19-2016.md) -  Watch: `Hangouts` `Firebase` / Read: `Laravel` / See: `Angular 2`
 - Day 20 - Did: `soccer`
 - Day 21 - Did: `sleep`
-- Day 22 - Did: `driver family time` 
+- Day 22 - Did: `driver family time`
 - Day 23 - Did: `driver family time` `sleep`
 - Day 24 - Did: `sleep`
 - Day 25 - Did: `church` `family visit`
-- [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/07-26-2016.md) -  Watch: `Hangouts` `PWA` / Did: `extra-work-time`
+- [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/07-26-2016.md) -  Watch: `Hangouts` `PWA` / Did: `work-time`
 - [Day 27](https://github.com/YanMagale/dailylog/blob/master/registries/07-27-2016.md)
-
