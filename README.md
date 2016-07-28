@@ -29,4 +29,6 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - Day 23 - Did: `driver family time` `sleep`
 - Day 24 - Did: `sleep`
 - Day 25 - Did: `church` `family visit`
+- [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/07-26-2016.md) -  Watch: `Hangouts` `PWA` / Did: `extra-work-time`
+- [Day 27](https://github.com/YanMagale/dailylog/blob/master/registries/07-27-2016.md)
 
