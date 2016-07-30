@@ -31,4 +31,4 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - Day 25 - Did: `church` `family visit`
 - [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/07-26-2016.md) -  Watch: `Hangouts` `PWA` / Did: `work-time`
 - [Day 27](https://github.com/YanMagale/dailylog/blob/master/registries/07-27-2016.md) - Read: `PWA` / Did: `play drums` `sleep`
-- [Day 28](https://github.com/YanMagale/dailylog/blob/master/registries/07-28-2016.md) -  Watch: `Hangouts` `VueJS` / Read: `VueJS` / Listen: `Podcasts` / Discover New Tools
+- [Day 28](https://github.com/YanMagale/dailylog/blob/master/registries/07-28-2016.md) -  Watch: `Hangouts` `VueJS` / Read: `VueJS` `PWA` `a11y` / Listen: `Podcasts` / Discover New Tools
