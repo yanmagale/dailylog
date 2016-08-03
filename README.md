@@ -32,6 +32,11 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/07-26-2016.md) -  Watch: `Hangouts` `PWA` / Did: `work-time`
 - [Day 27](https://github.com/YanMagale/dailylog/blob/master/registries/07-27-2016.md) - Read: `PWA` / Did: `play drums` `sleep`
 - [Day 28](https://github.com/YanMagale/dailylog/blob/master/registries/07-28-2016.md) -  Watch: `Hangouts` `VueJS` / Read: `VueJS` `PWA` `a11y` / Listen: `Podcasts` / Discover New Tools
-- [Day 29](https://github.com/YanMagale/dailylog/blob/master/registries/07-29-2016.md) -  Read: `HexoJS` / Listen: `Podcasts` / Did: `coaching` 
+- [Day 29](https://github.com/YanMagale/dailylog/blob/master/registries/07-29-2016.md) -  Read: `HexoJS` / Listen: `Podcasts` / Did: `coaching`
 - [Day 30](https://github.com/YanMagale/dailylog/blob/master/registries/07-30-2016.md) -  Event: `DevInCompany`  Read: `HexoJS` / Did: `GDG Activities`
 - [Day 31](https://github.com/YanMagale/dailylog/blob/master/registries/07-31-2016.md) -  Did: `Personal Blog` `English Class` / Read: `HexoJS` `family time`
+
+
+### Aug
+- [Day 1](https://github.com/YanMagale/dailylog/blob/master/registries/08-01-2016.md) -  Did: `Personal Blog` / Read: `HexoJS`  `Github Pages`
+- [Day 2](https://github.com/YanMagale/dailylog/blob/master/registries/08-02-2016.md) -  Did: `Personal Blog` `GDG Activities` / Read: `HexoJS` / See: `Jade` 
