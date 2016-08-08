@@ -41,3 +41,7 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 1](https://github.com/YanMagale/dailylog/blob/master/registries/08-01-2016.md) -  Did: `Personal Blog` / Read: `HexoJS`  `Github Pages`
 - [Day 2](https://github.com/YanMagale/dailylog/blob/master/registries/08-02-2016.md) -  Did: `Personal Blog` `GDG Activities` / Read: `HexoJS` / See: `Jade`
 - [Day 3](https://github.com/YanMagale/dailylog/blob/master/registries/08-03-2016.md) -  Did: `GDG Activities` `sleep` `relax`
+- [Day 4](https://github.com/YanMagale/dailylog/blob/master/registries/08-04-2016.md) -  Did: `Personal Blog`
+- [Day 5](https://github.com/YanMagale/dailylog/blob/master/registries/08-05-2016.md) -  Event: `Devbeers` Did: `Personal Blog`
+- [Day 6](https://github.com/YanMagale/dailylog/blob/master/registries/08-06-2016.md) -  Event: `FrontInBH2k16`
+- Day 7 - Did: `sleep` `relax`
