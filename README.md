@@ -1,6 +1,6 @@
 # Daily Log
 
-My day after day, a log about my studies, lectures and others
+My day after day, a log about my studies, lectures and others.
 
 
 Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog) and [Zeh Fernandes - Daily Log](https://github.com/zehfernandes/dailylog/)
@@ -45,3 +45,33 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 5](https://github.com/YanMagale/dailylog/blob/master/registries/08-05-2016.md) -  Event: `Devbeers` Did: `Personal Blog`
 - [Day 6](https://github.com/YanMagale/dailylog/blob/master/registries/08-06-2016.md) -  Event: `FrontInBH2k16`
 - Day 7 - Did: `sleep` `relax`
+- Day 8 - Did: `sleep` `relax`
+- Day 9 - Did: `the flu`
+- Day 10 - Did: `the flu`
+- Day 11 - Did: `the flu`
+- Day 12 - Did: `the flu`
+- Day 13 - Did: `the flu`
+- Day 14  
+- Day 15  
+- Day 16
+- Day 17  
+- Day 18  
+- Day 19  
+- Day 20  
+- Day 21  
+- Day 22 - Did: `preparing to travel`
+- Day 23 - Did: `preparing to travel`
+- Day 24 - Did: `travel`
+- Day 25 - Did: `travel`
+- [Day 26](https://github.com/YanMagale/dailylog/blob/master/registries/08-26-2016.md) -  Did: `travel` Event: `BrazilJS2016`
+- [Day 27](https://github.com/YanMagale/dailylog/blob/master/registries/08-27-2016.md) -  Did: `travel` Event: `BrazilJS2016`
+- Day 28 - Did: `travel`
+- Day 29 - Did: `sleep` `recover`
+- Day 30 - Did: `sleep` `recover`
+- [Day 31](https://github.com/YanMagale/dailylog/blob/master/registries/08-31-2016.md) -  Did: `GDG Activities` Watch `Hangouts` Listen `Podcasts`
+
+## Set
+- [Day 1](https://github.com/YanMagale/dailylog/blob/master/registries/09-01-2016.md) - Listen `Podcasts`
+- [Day 2](https://github.com/YanMagale/dailylog/blob/master/registries/09-02-2016.md) - Listen `Podcasts`
+- [Day 3](https://github.com/YanMagale/dailylog/blob/master/registries/09-03-2016.md) -  Did: `Github Time` `English Class`
+- Day 4 - Did: `sleep` `relax` `college studies`
