@@ -78,3 +78,4 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - Day 5 - Did: `college studies`
 - [Day 6](https://github.com/YanMagale/dailylog/blob/master/registries/09-06-2016.md) - Read `VueJS` `Web Components`
 - Day 7 - Did: `work-time` `relax`
+- [Day 8](https://github.com/YanMagale/dailylog/blob/master/registries/09-08-2016.md) - Read `Motivation`
