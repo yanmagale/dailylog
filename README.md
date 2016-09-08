@@ -75,3 +75,6 @@ Inspired by [Felipe Fialho "LFeh" - Daily Log](https://github.com/LFeh/dailylog)
 - [Day 2](https://github.com/YanMagale/dailylog/blob/master/registries/09-02-2016.md) - Listen `Podcasts`
 - [Day 3](https://github.com/YanMagale/dailylog/blob/master/registries/09-03-2016.md) -  Did: `Github Time` `English Class`
 - Day 4 - Did: `sleep` `relax` `college studies`
+- Day 5 - Did: `college studies`
+- [Day 6](https://github.com/YanMagale/dailylog/blob/master/registries/09-06-2016.md) - Read `VueJS` `Web Components`
+- Day 7 - Did: `work-time` `relax`
